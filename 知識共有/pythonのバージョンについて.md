@@ -25,3 +25,4 @@ pythonプログラムを実行する前に
 で行えば3系が使用されます。   
 
 特に理由がなければ3系を使うのがいいかと。
+細かい点は[Python2からPython3.0での変更点](https://qiita.com/CS_Toku/items/353fd4b0fd9ed17dc152)を参考に。
